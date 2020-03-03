@@ -3,4 +3,4 @@
 Exploring pytorch basics and functionalities.
 
 ### References
-To be added
+- pytorch documentation: https://pytorch.org/docs/stable/torch.html
